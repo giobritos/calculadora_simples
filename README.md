@@ -1,2 +1,2 @@
-# calculadora_simples
+# Calculadora Simples
 Calculadora utilizando elif.
